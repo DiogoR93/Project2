@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseImplementation</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+
+    <string translatable="false" name="api_key">AIzaSyAHqyOMR2UE3_5yjiKPoagDsKBy9EjA2go</string>
+</resources>

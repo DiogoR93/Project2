@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342713324599",
+    "firebase_url": "https://fisrtapi.firebaseio.com",
+    "project_id": "fisrtapi",
+    "storage_bucket": "fisrtapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342713324599:android:20d5bdd57b011970",
+        "android_client_info": {
+          "package_name": "com.domain.drapps.firebaseimplementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342713324599-r3nnf30v2fh8ff6crhcmg2o09pgvi5ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.domain.drapps.firebaseimplementation",
+            "certificate_hash": "86d2c512c47564fab3383247b2eccb49ae8f92f0"
+          }
+        },
+        {
+          "client_id": "342713324599-i5jiek4ukvo4pb1ad9s96m6npfdn45ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxvNQTtywGIKVNAeTPJsb1NH__HsBH24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342713324599-i5jiek4ukvo4pb1ad9s96m6npfdn45ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
